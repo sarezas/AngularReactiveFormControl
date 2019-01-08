@@ -1,0 +1,7 @@
+span.help-block {
+    color: rgb(158, 144, 144);
+}
+
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
